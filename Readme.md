@@ -1,4 +1,4 @@
-# __**Pokemon GO Assets**__ __**:**__ __**Medals**__
+# __**Pokemon GO Assets**__ __**:**__ __**Medals and Level Up**__
 
 
 **+** __**Repository Info**__
