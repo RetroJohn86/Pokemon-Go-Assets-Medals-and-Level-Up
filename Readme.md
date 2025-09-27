@@ -3,14 +3,14 @@
 
 **+** __**Repository Info**__
 
-As from the December 2024, the Download Size for this Repo is : **127 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the September 2025, the Download Size for this Repo is : **130 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
 
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category e.g. Ace Trainer, Backpacker, Battle, Battle Girl, Battle Legend, Berry Master, Best Buddy, Breeder,  Cameraman, Champion, Collection Challenges, Collector, Contest, Defense Battles Won, Events ( Exclusive ), Fisher, Friend Finder, Gentleman, Great League Veteran, Gym Leader, Hero, Idol, Jogger, Jumbo Pokemon Collector, Master League Veteran, Mega Evolution Guru, Picnicker, Pikachu Fan, Pilot, Pokemon Ranger, Purifier, Raid Expert, Rising Star, Rising Star Duo, Route, Route Maker, Scanner, Scientist, Sightseer, Successor, Tiny Pokemon Collector, Trathlete, Ultra Hero, Ultra League Veteran, Unown, Vivillon Collector, Wayfarer, Youngster, Others ( Customs, Gym Tier, Original and Route ), Region ( Alola, Galar, Hisui, Hoenn, Johto, Kalos, Kanto, Paldea, Sinnoh and Unova ) and More.
+All images in this repo are found and mined and are located are organized based on category e.g. Ace Trainer, Backpacker, Battle, Battle Girl, Battle Legend, Berry Master, Best Buddy, Breeder,  Cameraman, Champion, Collection Challenges, Collector, Community Member, Contest, Defense Battles Won, Fisher, Friend Finder, Gentleman, Great League Veteran, Gym Leader, Hero, Idol, Jogger, Jumbo Pokemon Collector, Life Of The Party, Master League Veteran, Mega Evolution Guru, Picnicker, Pikachu Fan, Pilot, Pokemon Ranger, Purifier, Raid Expert, Rising Star, Rising Star Duo, Route, Route Maker, Scanner, Scientist, Sightseer, Successor, Tiny Pokemon Collector, Trathlete, Ultra Hero, Ultra League Veteran, Unown, Vivillon Collector, Wayfarer, Youngster, Events ( Exclusive ), Others ( Beta, Customs, Original and Types ), Region ( Alola, Galar, Hisui, Hoenn, Johto, Kalos, Kanto, Paldea, Sinnoh and Unova ) and More.
 
 
 ## __**Disclaimer**__
